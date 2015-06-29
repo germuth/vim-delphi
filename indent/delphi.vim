@@ -1,6 +1,6 @@
 " Vim indent file
 " Language:    Delphi
-" Maintainer:  Edson CÃ©sar <edsono@gmail.com>
+" Maintainer:  Edson César <edsono@gmail.com>
 " Created:     2010 Mai 31
 " Last Change: 2010 Mai 31
 
@@ -176,4 +176,3 @@ function! GetDelphiIndent( line_num )
 
   return indnt
 endfunction
-
